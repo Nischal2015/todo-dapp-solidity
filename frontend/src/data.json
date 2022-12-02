@@ -1,0 +1,16 @@
+{
+  "todos": {
+    "todo-1": { "id": "todo-1", "title": "Take out the orange" },
+    "todo-2": { "id": "todo-2", "title": "Watch my favorite show" },
+    "todo-3": { "id": "todo-3", "title": "Change my phone" },
+    "todo-4": { "id": "todo-4", "title": "Cook Dinner" }
+  },
+  "columns": {
+    "completed": {
+      "id": "completed",
+      "title": "Completed",
+      "taskIds": ["todo-1", "todo-2", "todo-3", "todo-4"]
+    }
+  },
+  "columnOrder": ["completed"]
+}
